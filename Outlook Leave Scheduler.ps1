@@ -1,3 +1,5 @@
+#Send meeting invite without blocking others calendar in Outlook
+
 $LeaveStartDay = Get-Date -Format "dd/MM/yyyy"
 $LeaveEndDay = Get-Date -Format "dd/MM/yyyy"
 $Subjectline = "Planned leave"
